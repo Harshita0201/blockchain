@@ -1,0 +1,75 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_num2",
+						"type": "uint256"
+					}
+				],
+				"name": "checkOverflow",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Error Handling/revertKeyword.sol": "RevertSample"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Error Handling/revertKeyword.sol": {
+			"keccak256": "0xce2190f7eea492a35310df81c92198c8b7ef54812ebfd96b767c7fffee843e9e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e955bfa5c4b6f3a26c8600a9dac5bb0caa9ca1e40514d8e846454319e405f30c",
+				"dweb:/ipfs/QmXQ4BptQtbxH6o9ASjiNK47rj7wry43agqxf4S3yNcFR9"
+			]
+		}
+	},
+	"version": 1
+}

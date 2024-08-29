@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_number",
+						"type": "uint256"
+					}
+				],
+				"name": "checkOdd",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Error Handling/requireKeyword.sol": "RequireKeywordSample"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Error Handling/requireKeyword.sol": {
+			"keccak256": "0x4fe08308d3fc41f08536a8ee6b0af307e64f9346aa757af800d5cd2cd4fff0d3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ee6fe0931f950ea799b7480f3b7057ec4377f65f5a2bf100461f938c8717a382",
+				"dweb:/ipfs/QmW6o1TBGac3oKiZpb3bhDMTESNpPgmp1JsrHmNnpwozTQ"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Error Handling/Arrays/arrays3.sol": "ArrayRemove"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Error Handling/Arrays/arrays3.sol": {
+			"keccak256": "0x92eec1f55fbeebd031a039af80f487cd9e345768833e8f3498ae9e0916431f4d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b10832b86231e6a77ada1a706af9b4e85aa365a62125918529c6af8614dec02d",
+				"dweb:/ipfs/Qmakxtne9Zo91apcaxVW6ji1dE54K3M5ZhJuzhrEncXWs3"
+			]
+		}
+	},
+	"version": 1
+}
